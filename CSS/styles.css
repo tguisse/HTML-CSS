@@ -1,0 +1,36 @@
+div.scrollmenu {
+    background-color: saddlebrown ;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: black;
+    text-align:center;
+    padding: 20px;
+    text-decoration: white;
+}
+
+div.scrollmenu a:hover {
+    background-color:white;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+ h1{
+     text-align:center;
+     background-color: saddlebrown;
+ 
+ }
+ table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+body{
+  background-image: url(../Images/background.jpg);
+}
